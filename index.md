@@ -4,6 +4,7 @@ layout: col-sidebar
 title: OWASP iot analytics 4industry4
 tags: example-tag
 level: 4
+type: documentation
 
 ---
 
