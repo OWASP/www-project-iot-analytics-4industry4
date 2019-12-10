@@ -19,7 +19,7 @@ type: documentation
 <tr class="odd">
 <p>Project Deliverables "Technical documentation" of implementation strategy. "POC projects" in fabric 4.0 that offers prescriptive guidance to implement similar automated platform into operative plants. </span></p>
 <h2 id="project_about">Project About</h2>
-<p><span style="color:#ff0000"> {{:Template:Project About</p></td>
+<p><span style="color:#ff0000"> :Template:Project About</p></td>
 <td><p>project_name=IOT Analytics 4Industry4</p></td>
 <h2 id="owasp_documentation_project_template">OWASP Documentation Project Template</h2>
 <p><span style="color:#333300"> Project roadmap</p>
